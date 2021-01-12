@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Windows/static/css/main.eea7b021.chunk.css",
+    "main.js": "/Windows/static/js/main.b3b8918d.chunk.js",
+    "main.js.map": "/Windows/static/js/main.b3b8918d.chunk.js.map",
+    "runtime-main.js": "/Windows/static/js/runtime-main.1a544d5b.js",
+    "runtime-main.js.map": "/Windows/static/js/runtime-main.1a544d5b.js.map",
+    "static/js/2.0f336560.chunk.js": "/Windows/static/js/2.0f336560.chunk.js",
+    "static/js/2.0f336560.chunk.js.map": "/Windows/static/js/2.0f336560.chunk.js.map",
+    "index.html": "/Windows/index.html",
+    "precache-manifest.b362f91f1fd41a9951c87a23def61e41.js": "/Windows/precache-manifest.b362f91f1fd41a9951c87a23def61e41.js",
+    "service-worker.js": "/Windows/service-worker.js",
+    "static/css/main.eea7b021.chunk.css.map": "/Windows/static/css/main.eea7b021.chunk.css.map",
+    "static/js/2.0f336560.chunk.js.LICENSE.txt": "/Windows/static/js/2.0f336560.chunk.js.LICENSE.txt",
+    "static/media/anotador1.png": "/Windows/static/media/anotador1.def7fc76.png",
+    "static/media/index.css": "/Windows/static/media/fondo2.c72c5f6a.jpg",
+    "static/media/logo1.png": "/Windows/static/media/logo1.710cc2d9.png",
+    "static/media/paint1.png": "/Windows/static/media/paint1.e01c13a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a544d5b.js",
+    "static/js/2.0f336560.chunk.js",
+    "static/css/main.eea7b021.chunk.css",
+    "static/js/main.b3b8918d.chunk.js"
+  ]
+}
